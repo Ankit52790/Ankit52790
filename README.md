@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">A passionate Machine Learning developer from India</h3>
-<img align="right" alt="coding"width="400" src="https://www.pinterest.com/pin/856528422875606200/".gif>
+<h3 align="center">A passionate Machine Learning developer from India I’m interested in Programming , Artificial Intelligence and To known about new Technology. - 🌱 I’m currently learning Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit52790&label=Profile%20views&color=0e75b6&style=flat" alt="ankit52790" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit52790" alt="ankit52790" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@ankitku26661761" target="blank"><img src="https://img.shields.io/twitter/follow/@ankitku26661761?logo=twitter&style=for-the-badge" alt="@ankitku26661761" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/ankitku26661761" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ankitku26661761?logo=twitter&style=for-the-badge" alt="https://twitter.com/ankitku26661761" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -14,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ankitku26661761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankitku26661761" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/ankitku26661761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ankitku26661761" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-934467206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-kumar-934467206" height="30" width="40" /></a>
-<a href="https://fb.com/https://m.facebook.com/100031163535345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/100031163535345/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100031163535345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100031163535345" height="30" width="40" /></a>
 <a href="https://instagram.com/_kumar__ankit__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kumar__ankit__" height="30" width="40" /></a>
 </p>
 
