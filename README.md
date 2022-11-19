@@ -1,8 +1,4 @@
-<!---
-Ankit52790/Ankit52790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://www.pinterest.com/pin/856528422875606200/".gif>
 
